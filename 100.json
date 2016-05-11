@@ -1,502 +1,502 @@
 [
     {
         "name": "Ethel Price",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Enersol"
     },
     {
         "name": "Claudine Neal",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Sealoud"
     },
     {
         "name": "Beryl Rice",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Velity"
     },
     {
         "name": "Wilder Gonzales",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Geekko"
     },
     {
         "name": "Georgina Schultz",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Suretech"
     },
     {
         "name": "Carroll Buchanan",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Ecosys"
     },
     {
         "name": "Valarie Atkinson",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Hopeli"
     },
     {
         "name": "Schroeder Mathews",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Polarium"
     },
     {
         "name": "Lynda Mendoza",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Dogspa"
     },
     {
         "name": "Sarah Massey",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Bisba"
     },
     {
         "name": "Robles Boyle",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Comtract"
     },
     {
         "name": "Evans Hickman",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Parleynet"
     },
     {
         "name": "Dawson Barber",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Dymi"
     },
     {
         "name": "Bruce Strong",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Xyqag"
     },
     {
         "name": "Nellie Whitfield",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Exospace"
     },
     {
         "name": "Jackson Macias",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Aquamate"
     },
     {
         "name": "Pena Pena",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Quarx"
     },
     {
         "name": "Lelia Gates",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Proxsoft"
     },
     {
         "name": "Letitia Vasquez",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Slumberia"
     },
     {
         "name": "Trevino Moreno",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Conjurica"
     },
     {
         "name": "Barr Page",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Apex"
     },
     {
         "name": "Kirkland Merrill",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Utara"
     },
     {
         "name": "Blanche Conley",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Imkan"
     },
     {
         "name": "Atkins Dunlap",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Comveyor"
     },
     {
         "name": "Everett Foreman",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Maineland"
     },
     {
         "name": "Gould Randolph",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Intergeek"
     },
     {
         "name": "Kelli Leon",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Verbus"
     },
     {
         "name": "Freda Mason",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Accidency"
     },
     {
         "name": "Tucker Maxwell",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Lumbrex"
     },
     {
         "name": "Yvonne Parsons",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Zolar"
     },
     {
         "name": "Woods Key",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Bedder"
     },
     {
         "name": "Stephens Reilly",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Acusage"
     },
     {
         "name": "Mcfarland Sparks",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Comvey"
     },
     {
         "name": "Jocelyn Sawyer",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Fortean"
     },
     {
         "name": "Renee Barr",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Kiggle"
     },
     {
         "name": "Gaines Beck",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Sequitur"
     },
     {
         "name": "Luisa Farrell",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Cinesanct"
     },
     {
         "name": "Robyn Strickland",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Obones"
     },
     {
         "name": "Roseann Jarvis",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Aquazure"
     },
     {
         "name": "Johnston Park",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Netur"
     },
     {
         "name": "Wong Craft",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Opticall"
     },
     {
         "name": "Merritt Cole",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Techtrix"
     },
     {
         "name": "Dale Byrd",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Kneedles"
     },
     {
         "name": "Sara Delgado",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Netagy"
     },
     {
         "name": "Alisha Myers",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Intradisk"
     },
     {
         "name": "Felecia Smith",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Futurity"
     },
     {
         "name": "Neal Harvey",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Pyramax"
     },
     {
         "name": "Nola Miles",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Sonique"
     },
     {
         "name": "Herring Pierce",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Geeketron"
     },
     {
         "name": "Shelley Rodriquez",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Bostonic"
     },
     {
         "name": "Cora Chase",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Isonus"
     },
     {
         "name": "Mckay Santos",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Amtas"
     },
     {
         "name": "Hilda Crane",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Jumpstack"
     },
     {
         "name": "Jeanne Lindsay",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Genesynk"
     },
     {
         "name": "Frye Sharpe",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Eplode"
     },
     {
         "name": "Velma Fry",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Ronelon"
     },
     {
         "name": "Reyna Espinoza",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Prismatic"
     },
     {
         "name": "Spencer Sloan",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Comverges"
     },
     {
         "name": "Graham Marsh",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Medifax"
     },
     {
         "name": "Hale Boone",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Digial"
     },
     {
         "name": "Wiley Hubbard",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Zensus"
     },
     {
         "name": "Blackburn Drake",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Frenex"
     },
     {
         "name": "Franco Hunter",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Rockabye"
     },
     {
         "name": "Barnett Case",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Norali"
     },
     {
         "name": "Alexander Foley",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Geekosis"
     },
     {
         "name": "Lynette Stein",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Macronaut"
     },
     {
         "name": "Anthony Joyner",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Senmei"
     },
     {
         "name": "Garrett Brennan",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Bluegrain"
     },
     {
         "name": "Betsy Horton",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Zilla"
     },
     {
         "name": "Patton Small",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Genmex"
     },
     {
         "name": "Lakisha Huber",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Insource"
     },
     {
         "name": "Lindsay Avery",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Unq"
     },
     {
         "name": "Ayers Hood",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Accuprint"
     },
     {
         "name": "Torres Durham",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Uplinx"
     },
     {
         "name": "Vincent Hernandez",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Talendula"
     },
     {
         "name": "Baird Ryan",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Aquasseur"
     },
     {
         "name": "Georgia Mercer",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Skyplex"
     },
     {
         "name": "Francesca Elliott",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Nspire"
     },
     {
         "name": "Lyons Peters",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Quinex"
     },
     {
         "name": "Kristi Brewer",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Oronoko"
     },
     {
         "name": "Tonya Bray",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Insuron"
     },
     {
         "name": "Valenzuela Huff",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Applideck"
     },
     {
         "name": "Tiffany Anderson",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Zanymax"
     },
     {
         "name": "Jerri King",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Eventex"
     },
     {
         "name": "Rocha Meadows",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Goko"
     },
     {
         "name": "Marcy Green",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Pharmex"
     },
     {
         "name": "Kirk Cross",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Portico"
     },
     {
         "name": "Hattie Mullen",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Zilencio"
     },
     {
         "name": "Deann Bridges",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Equitox"
     },
     {
         "name": "Chaney Roach",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Qualitern"
     },
     {
         "name": "Consuelo Dickson",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Poshome"
     },
     {
         "name": "Billie Rowe",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Cemention"
     },
     {
         "name": "Bean Donovan",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Mantro"
     },
     {
         "name": "Lancaster Patel",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Krog"
     },
     {
         "name": "Rosa Dyer",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Netility"
     },
     {
         "name": "Christine Compton",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Bleeko"
     },
     {
         "name": "Milagros Finch",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Handshake"
     },
     {
         "name": "Ericka Alvarado",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Lyrichord"
     },
     {
         "name": "Sylvia Sosa",
-        "gender": "female",
+        "gender": "female", "IsSelected" : true,
         "company": "Circum"
     },
     {
         "name": "Humphrey Curtis",
-        "gender": "male",
+        "gender": "male", "IsSelected" : true,
         "company": "Corepan"
     }
 ]
